@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SXhlu7P8HU5EQtmsPfSoWiWmQhMKIDxt+wnF8H8Bs24=",
+  "Source": "EncriptionAESWebservice",
+  "BasePath": "_content/EncriptionAESWebservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
